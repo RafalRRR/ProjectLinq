@@ -1,2 +1,4 @@
 informacja na temat konfiguracji konta shell na serverze Master250SHL.
 ip: 89.34.56.98
+mask: 25.255.255.0
+bramka: 89.34
