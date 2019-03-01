@@ -1,0 +1,3 @@
+cos
+del
+nome
